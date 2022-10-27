@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "the second O",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.jstor.org/iiif/2022/04/18/16/92ceb1d0-8186-434c-842f-30be8ae0d158_deflate.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:958.2059326171875,914.2119140625,227.700439453125,173.088134765625"
+      },
+      "id": "952ba136"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "806edb80"
+  }
+]
